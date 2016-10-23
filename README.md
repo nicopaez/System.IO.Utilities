@@ -10,7 +10,10 @@ The _System.IO.File_ is a class whose methods are all static and because of that
 
 So the idea is when you need to manipulate files, just use the IFileHandler/FileHandler pair instead of the _System.IO.File_  class, this way your code will be able to mock file operations.
 
-This
+Usage
+-----
+
+You change see how to use this component [here](https://github.com/nicopaez/System.IO.Utilities/blob/master/System.IO.Utilities.Tests/IFileHandlerTest.cs).
 
 Contact & Support
 -----------------
