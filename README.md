@@ -1,9 +1,7 @@
 System.IO.Utilities
 ===================
 
-[![Build status](https://ci.appveyor.com/api/projects/status/r8hur4kbfalqfudg?svg=true)](https://ci.appveyor.com/project/nicopaez/system-io-utilities)
-
-[![NuGet version](https://badge.fury.io/nu/system.io.utilities.svg)](https://badge.fury.io/nu/system.io.utilities)
+[![Build status](https://ci.appveyor.com/api/projects/status/r8hur4kbfalqfudg?svg=true)](https://ci.appveyor.com/project/nicopaez/system-io-utilities) [![NuGet version](https://badge.fury.io/nu/system.io.utilities.svg)](https://badge.fury.io/nu/system.io.utilities)
 
 
 This library provides a wrapper over the _System.IO.File_ class. 
