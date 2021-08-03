@@ -18,7 +18,7 @@ You change see how to use this component [here](https://github.com/nicopaez/Syst
 Contact & Support
 -----------------
 
-In case of bugs, recommendations and/or feature requests you can contact me on Twitter: @incopaez
+In case of bugs, recommendations and/or feature requests you can contact me on Twitter: @inicopaez
 
 
 
